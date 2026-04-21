@@ -1,9 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jere
 
-I’m a C++ programmer focused on developer tools, systems, and production pipelines.
+###### Build & Automation Engineer · Helsinki, Finland
 
-I enjoy building systems that help entire teams work more efficiently — whether that’s reusable developer tools, code libraries, test automation, or build pipelines.
+I build CI/CD pipelines, developer tooling, and automation infrastructure — the systems that make complex behavior reproducible and teams faster. I've also shipped production features in live codebases, so I understand what it means to build things that have to hold up under real-world pressure.
 
-Check out my [asset validation tool](https://github.com/jereor/asset-tools) to see what I've been working on recently.
+---
 
-See my web [portfolio](https://jereor.github.io/portfolio/) for my previous work and blogs.
+## What I work with
+
+| Languages | Tools | Engines |
+|-----------|-------|---------|
+| C++ · C# · Python · Lua | Jenkins · TeamCity · Docker · CMake · AWS · Appium · Git | Unreal Engine · Unity |
+
+---
+
+## Featured project
+
+### [Asset Validation & Pipeline Tool](https://github.com/jereor/asset-tools)
+`C++` `CMake` `Jenkins` `Docker`
+
+A production-style C++ tooling project simulating real-world asset pipeline systems — modular architecture, deterministic behavior, and Jenkins CI integration via Docker.
+
+---
+
+## Other work
+
+Most of my professional work lives in private repos — Warframe, internal tooling at Nitro Games, and framework work across Unity projects. My [portfolio](https://jereor.github.io/portfolio/) has the full breakdown with context on what was built and why.
+
+---
+
+## Find me
+
+- **Portfolio:** [jereor.github.io/portfolio/](https://jereor.github.io/portfolio/)
+- **LinkedIn:** [linkedin.com/in/jere-orava-a67445162/](https://www.linkedin.com/in/jere-orava-a67445162/)
+
+Open to build engineering and automation roles.
